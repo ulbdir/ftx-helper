@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "@types/ws": "^8.2.0"
+  },
+  "dependencies": {
+    "ftx-api": "github:tiagosiebler/ftx-api"
+  }
+}
