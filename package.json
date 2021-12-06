@@ -4,6 +4,6 @@
     "@types/ws": "^8.2.0"
   },
   "dependencies": {
-    "ftx-api": "github:tiagosiebler/ftx-api"
+    "ftx-api": "^1.0.x"
   }
 }
